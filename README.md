@@ -2,6 +2,8 @@
 
 Bu repo [kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Fron-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![sample](./sample.png)
+
 # Installation
 
 Öncelikle projeyi clonelayın. (Burada sizin reponuzdan aldığınız lik gelecek)
